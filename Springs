@@ -1,0 +1,14 @@
+Spring面试题（2020最新版）https://blog.csdn.net/thinkwon/article/details/104397516 
+Spring：
+常问：
+1. BeanFactory 和 ApplicationContext有什么区别？
+2. 有哪些不同类型的依赖注入实现方式？
+3. Spring有几种配置方式
+4. 解释Spring支持的几种bean的作用域
+
+
+SpringBoot：
+
+SpringMvc：
+
+其他Spring相关：
