@@ -1,0 +1,5 @@
+From: https://thinkwon.blog.csdn.net/article/details/104397719
+1. 一个线程池中的线程异常了，那么线程池会怎么处理这个线程?
+2. 四种类型的数据节点 Znode
+3. Zookeeper 下 Server 工作状态
+4. Zookeeper 的典型应用场景
