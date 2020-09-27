@@ -1,0 +1,2 @@
+1. String.intern()作用。http://lovestblog.cn/blog/2016/11/06/string-intern/
+2. 一个线程池中的线程异常了，那么线程池会怎么处理这个线程? https://www.cnblogs.com/fanguangdexiaoyuer/p/12332082.html
